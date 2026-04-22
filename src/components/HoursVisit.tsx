@@ -6,8 +6,8 @@ const hours = [
   { day: "Wednesday", time: "Closed" },
   { day: "Thursday", time: "Closed" },
   { day: "Friday", time: "Closed" },
-  { day: "Saturday", time: "Open" },
-  { day: "Sunday", time: "Open" },
+  { day: "Saturday", time: "8am - 1 pm" },
+  { day: "Sunday", time: "8am - 1pm" },
 ];
 
 export const HoursVisit = () => {

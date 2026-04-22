@@ -37,6 +37,16 @@ export const menu: MenuSection[] = [
     ],
   },
   {
+  title: "Senior Menu",
+  items: [
+    { name: "1 Biscuit and Sausage Gravy", price: "$3" },
+    { name: "1 Egg and Toast or Biscuit", price: "$4" },
+    { name: "2 Eggs and Toast or Biscuit", price: "$5" },
+    { name: "1 Egg, 2 Bacon or Sausage (Link or Patty), and Toast or Biscuit", price: "$6" },
+    { name: "A Sweet Choice plus Bacon or Sausage (Link or Patty)", price: "$7" },
+  ],
+},
+  {
     title: "Breakfasts",
     items: [
       { name: "Super", description: "Egg, Bacon or Sausage (Link or Patty), and Toast or Biscuit.", price: "$9" },
@@ -85,6 +95,16 @@ export const menu: MenuSection[] = [
       { name: "Coffee, Tea, Hot Chocolate, Soft Drink (can)", price: "$3" },
       { name: "Milk (Plain, Chocolate, or Strawberry)", price: "Small $3 / Large $5" },
       { name: "Juice (Orange or Apple)", price: "Small $3 / Large $5" },
+    ],
+  },
+  {
+    title: "Senior Menu",
+    items: [
+      { name: "1 Biscuit and Sausage Gravy", price: "$3" },
+      { name: "1 Egg and Toast or Biscuit", price: "$4" },
+      { name: "2 Eggs and Toast or Biscuit", price: "$5" },
+      { name: "1 Egg, 2 Bacon or Sausage (Link or Patty), and Toast or Biscuit", price: "$6" },
+      { name: "A Sweet Choice plus Bacon or Sausage (Link or Patty)", price: "$7" },
     ],
   },
 ];
