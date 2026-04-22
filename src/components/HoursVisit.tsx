@@ -6,7 +6,7 @@ const hours = [
   { day: "Wednesday", time: "Closed" },
   { day: "Thursday", time: "Closed" },
   { day: "Friday", time: "Closed" },
-  { day: "Saturday", time: "8am - 1 pm" },
+  { day: "Saturday", time: "8am - 1pm" },
   { day: "Sunday", time: "8am - 1pm" },
 ];
 
