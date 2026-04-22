@@ -37,16 +37,6 @@ export const menu: MenuSection[] = [
     ],
   },
   {
-  title: "Senior Menu",
-  items: [
-    { name: "1 Biscuit and Sausage Gravy", price: "$3" },
-    { name: "1 Egg and Toast or Biscuit", price: "$4" },
-    { name: "2 Eggs and Toast or Biscuit", price: "$5" },
-    { name: "1 Egg, 2 Bacon or Sausage (Link or Patty), and Toast or Biscuit", price: "$6" },
-    { name: "A Sweet Choice plus Bacon or Sausage (Link or Patty)", price: "$7" },
-  ],
-},
-  {
     title: "Breakfasts",
     items: [
       { name: "Super", description: "Egg, Bacon or Sausage (Link or Patty), and Toast or Biscuit.", price: "$9" },
@@ -107,4 +97,13 @@ export const menu: MenuSection[] = [
       { name: "A Sweet Choice plus Bacon or Sausage (Link or Patty)", price: "$7" },
     ],
   },
+    {
+      title: "Gluten Free",
+      items: [
+        { name: "Oatmeal and GF Toast", price: "$5.50" },
+        { name: "Pancakes", price: "$8.50" },
+        { name: "French Toast", price: "$8.50" },
+        { name: "1 Egg, 2 Bacon or Sausage (Link or Patty), and GF Toast", price: "$9.50" },
+      ],
+    },
 ];
