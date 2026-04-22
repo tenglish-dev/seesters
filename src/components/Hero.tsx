@@ -13,7 +13,7 @@ export const Hero = () => {
             <br />
             <span className="text-secondary">Breakfast Shop</span>
           </h1>
-          <p className="text-lg text-muted-foreground max-w-md">
+          <p className="text-lg text-muted-foreground max-w-md mx-auto text-center">
           Right here in Conneaut, OH. Serving up fresh, baked breakfasts worth waking up for.”
           </p>
           <div className="flex flex-wrap gap-4 pt-2 justify-center lg:justify-start">
