@@ -6,7 +6,7 @@ export const Hero = () => {
       <div className="container mx-auto grid lg:grid-cols-2 gap-12 items-center py-16 md:py-24">
         <div className="space-y-6 text-center lg:text-left">
           <span className="inline-block px-4 py-1.5 rounded-full bg-accent/30 text-foreground text-xs font-semibold tracking-wide uppercase">
-            Breakfast & Brunch • Baked, never fried
+            Breakfast & Brunch
           </span>
           <h1 className="font-display font-black text-5xl md:text-7xl leading-[1.05] text-foreground">
             Seester's <span className="text-primary">+ One</span>
@@ -14,8 +14,7 @@ export const Hero = () => {
             <span className="text-secondary">Breakfast Shop</span>
           </h1>
           <p className="text-lg text-muted-foreground max-w-md">
-            A healthy cooking alternative featuring baked versus fried foods.
-            Made fresh, served warm, and worth getting out of bed for.
+          Right here in Conneaut, OH. Serving up fresh, baked breakfasts worth waking up for.”
           </p>
           <div className="flex flex-wrap gap-4 pt-2 justify-center lg:justify-start">
             <a href="#menu" className="px-7 py-3.5 rounded-full bg-gradient-warm text-primary-foreground font-semibold shadow-warm hover:scale-105 transition-transform">
